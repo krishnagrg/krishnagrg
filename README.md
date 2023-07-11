@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/krishnagar52844" target="blank"><img src="https://img.shields.io/twitter/follow/krishnagar52844?logo=twitter&style=for-the-badge" alt="krishnagar52844" /></a> </p>
 
 - 🔭 I’m currently working on [startupfino](https://www.startupfino.com/)
+- - Other [peoplefino](https://www.peoplefino.com/)
 
 - 📫 How to reach me **krishnagarg0602@gmail.com**
 
